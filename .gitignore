@@ -1,0 +1,31 @@
+# Dependency directories
+node_modules/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables file
+.env
+
+# Build artifacts
+/build
+/dist
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore compiled binary files
+*.exe
+*.out
+*.bin
+
+# Ignore any backup files
+*~
